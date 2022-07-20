@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vigneshRupendiran
-- 👀 I’m interested in Web Application and mobile apps development
+- 👀 I’m interested in Java Based Web Application and mobile apps development
 - 🌱 I’m currently learning ...Python,Android
 - 💞️ I’m looking to collaborate on ...Any Freelance projects
 - 📫 How to reach me ...vignesh91.r@gmail.com
